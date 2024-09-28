@@ -1,0 +1,92 @@
+header{
+    color: aquamarine;
+    background-color: rgb(23, 5, 5);
+}
+p{
+    background-color: black;
+    color: aquamarine;
+}
+h2,h3{
+    background-color: black;
+    color: rgb(255, 0, 21);
+}
+html{
+    background-color: black;
+}
+style{
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+span{
+    color: yellow;
+    align-items: center;
+}
+.h3{
+    color: beige;
+}
+h1{
+    color: blue;
+    align-items: center;
+}
+img{
+    align-items: center;
+}
+
+.social-icons {
+    font-size: 50px; 
+    color: #e2dbdf;   
+    margin: 0 20px;  
+    transition: color 0.3s ease; 
+}
+
+
+.social-icons:hover {
+    color: #E1306C; 
+}
+
+.linkedin:hover {
+    color: #0077b5;
+}
+
+.github:hover {
+    color: #333; 
+}
+head{
+    align-items: center;
+}
+label{
+    align-items: center;
+}
+H3{
+    align-items: center;
+    color: aqua;
+}
+header{
+    justify-content: center;
+    justify-items: center;
+    align-items:center;
+}
+h4{
+    color: #E1306C;
+}
+p1{
+    color: #e2dbdf;
+}
+p3{
+    color: yellow;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    color: white;
+}
+textarea{
+    width:100%;
+    margin-bottom: 10px;
+    height: 100px;
+    padding:10px;
+    border:1px;
+    border-radius: 5px;
+}
